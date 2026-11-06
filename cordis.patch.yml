@@ -1,0 +1,3 @@
+- insert:
+    - id: strudel-player
+      name: '@local/dsh-strudel-player'

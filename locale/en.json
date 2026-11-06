@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Strudel Player",
+    "description": "Live-coding music player in the right sidebar that plays the patterns your agent composes, with a live synth rack."
+  }
+}
